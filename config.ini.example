@@ -1,0 +1,7 @@
+[general]
+token = gitea-api-token-here
+instance = gitea.domain.com
+repo = user/coolstuff
+email_path = ./example/
+email_inbox = Inbox
+email_trash = Trash
